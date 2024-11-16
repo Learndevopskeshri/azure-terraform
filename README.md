@@ -1,2 +1,2 @@
-# azurelinux-nginx-terraform
-deploying nginx on azure linux using terraform
+# azure-terraform
+deploying on azure via terraform
